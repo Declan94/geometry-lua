@@ -1,8 +1,8 @@
 Geometry
 ==============
 
-# Simple analytic geometry tools implemented by lua
-# using for cocos2d games
+Simple analytic geometry tools implemented by lua
+using for cocos2d games
 
 ## Classes
 
